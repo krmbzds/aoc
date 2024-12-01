@@ -1,0 +1,9 @@
+*.md
+*.txt
+*_spec.rb
+.env
+.env-template
+Gemfile*
+bin
+challenges/shared/*
+spec
